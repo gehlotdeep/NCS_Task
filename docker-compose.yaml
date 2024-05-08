@@ -2,6 +2,6 @@ version: '3.9'
 
 services:
   web:
-    image: "gehlotdeep/node-app-batch-6:latest"
+    image: "LondheShubham153/node-app-batch-6:latest"
     ports:
       - "8000:8000"
